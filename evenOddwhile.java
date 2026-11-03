@@ -8,5 +8,4 @@ class evenOddwhile {
             } else {
                 n = n * 3 + 1;}
         }System.out.println(1);
-    }
-}
+    }}
