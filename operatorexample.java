@@ -1,4 +1,4 @@
-public class operatorexample{
+public class operatorexample.java{
     public state void main(string args[]){
         int a=10;
         int b=5;
